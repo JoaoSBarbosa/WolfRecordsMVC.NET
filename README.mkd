@@ -1,0 +1,72 @@
+Desculpe pela confusão! Vou gerar o README em português, como solicitado:
+
+---
+
+# WolfMVC
+
+![.NET](https://img.shields.io/badge/.NET-8.0-blueviolet?style=for-the-badge&logo=dotnet)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-MVC-blue?style=for-the-badge&logo=dotnet)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3-purple?style=for-the-badge&logo=bootstrap)
+![Razor](https://img.shields.io/badge/Razor-Pages-orange?style=for-the-badge&logo=razor)
+
+## Visão Geral
+
+**WolfMVC** é um projeto em C# ASP.NET MVC, desenvolvido com .NET 8, Razor Pages e Bootstrap 5. Ele é projetado para ser um sistema robusto de listagem e cadastro de informações, com foco em design responsivo e padrões web modernos.
+
+## Funcionalidades
+
+- **ASP.NET MVC**: Implementa o padrão MVC com clara separação de responsabilidades.
+- **Razor Pages**: Templates HTML dinâmicos e elegantes.
+- **Bootstrap 5**: Framework UI responsivo e mobile-first.
+- **Entity Framework Core**: Integrado para acesso a dados.
+- **.NET 8**: Construído na versão mais recente da plataforma .NET.
+
+## Começando
+
+### Pré-requisitos
+
+Certifique-se de ter os seguintes itens instalados:
+
+- [.NET 8 SDK](https://dotnet.microsoft.com/download/dotnet/8.0)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/) ou IDE compatível
+- [SQL Server](https://www.microsoft.com/pt-br/sql-server) (ou outro banco de dados compatível)
+
+### Instalação
+
+1. Clone este repositório:
+
+   ```bash
+   git clone https://github.com/seu-usuario/WolfMVC.git
+   ```
+
+2. Navegue até o diretório do projeto:
+
+   ```bash
+   cd WolfMVC
+   ```
+
+3. Restaure os pacotes do projeto:
+
+   ```bash
+   dotnet restore
+   ```
+
+4. Configure a string de conexão com o banco de dados no arquivo `appsettings.json`.
+
+5. Execute o projeto:
+   ```bash
+   dotnet run
+   ```
+
+## Tecnologias Utilizadas
+
+- **C# e ASP.NET**: Framework backend para criação de aplicações web robustas.
+- **Razor Pages**: Renderização dinâmica de conteúdo.
+- **Bootstrap 5**: Estilos e design responsivo.
+- **Entity Framework Core**: Mapeamento objeto-relacional para banco de dados.
+
+## Contribuição
+
+Fique à vontade para contribuir com este projeto. Para isso, faça um _fork_ do repositório, crie uma _branch_, implemente suas alterações e envie um _pull request_.
+
+---
