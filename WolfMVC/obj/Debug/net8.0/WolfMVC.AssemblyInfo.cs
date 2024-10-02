@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WolfMVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+305d8b15ee5e1ab2a4514fe17dcca14142fb213a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WolfMVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WolfMVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

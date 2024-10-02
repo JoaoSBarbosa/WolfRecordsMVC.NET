@@ -9,7 +9,10 @@ namespace WolfMVC.Controllers
 
         public IActionResult Index()
         {
-            return View();
+            HomeModel model = new HomeModel();
+            model.Email = "contato.joao@email.com";
+            model.Nome = "João Barbosa";
+            return View(model);
         }
 
         public IActionResult Privacy()

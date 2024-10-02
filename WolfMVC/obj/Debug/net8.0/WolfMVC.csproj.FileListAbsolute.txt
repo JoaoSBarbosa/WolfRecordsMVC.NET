@@ -28,3 +28,4 @@ D:\Workspace\C#\WolfMVC\WolfMVC\obj\Debug\net8.0\refint\WolfMVC.dll
 D:\Workspace\C#\WolfMVC\WolfMVC\obj\Debug\net8.0\WolfMVC.pdb
 D:\Workspace\C#\WolfMVC\WolfMVC\obj\Debug\net8.0\WolfMVC.genruntimeconfig.cache
 D:\Workspace\C#\WolfMVC\WolfMVC\obj\Debug\net8.0\ref\WolfMVC.dll
+D:\Workspace\C#\WolfMVC\WolfMVC\obj\Debug\net8.0\WolfMVC.sourcelink.json
